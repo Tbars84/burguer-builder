@@ -1,0 +1,19 @@
+.Order{
+	width: 100%;
+	border: 1px solid #eee;
+	box-shadow: 0 2px 3px #ccc;
+	padding: 10px;
+	box-sizing: border-box ;
+}
+.Order p span{
+	display: inline-block;
+	margin: 0 5px;
+	padding: 5px 10px;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	cursor: pointer;
+}
+.Order p span:hover{
+	background: #ccc;
+	border: 1px solid #b1b1b1;
+}
